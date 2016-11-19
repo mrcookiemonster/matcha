@@ -5,32 +5,80 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2016-11-19T12:23:00+01:00</updated>
+  <updated>2016-11-19T15:32:00+01:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>My awesome 3rd article</title>
-    <link rel="alternate" href="http://blog.url.com/2016/11/19/my-awesome-3rd-article.html"/>
-    <id>http://blog.url.com/2016/11/19/my-awesome-3rd-article.html</id>
-    <published>2016-11-19T12:23:00+01:00</published>
-    <updated>2016-11-19T12:23:25+01:00</updated>
+    <title>even more poo ist coming</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/19/even-more-poo-ist-coming.html"/>
+    <id>http://blog.url.com/2016/11/19/even-more-poo-ist-coming.html</id>
+    <published>2016-11-19T15:32:00+01:00</published>
+    <updated>2016-11-19T15:33:15+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">
+    <content type="html">&lt;p&gt;Eos omnis omnis accusantium ducimus ut qui officiis. Qui dolores perspiciatis labore dolorem provident fugiat occaecati iste. Aperiam laboriosam ut accusantium. Enim deserunt et eum deserunt vero architecto doloremque nemo eum consequatur consequuntur incidunt ad qui. Voluptatibus sunt alias iusto rem dolor iure ratione ea odio aut et&lt;/p&gt;
 </content>
   </entry>
   <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/2012/01/01/01-01-example-article.html"/>
-    <id>http://blog.url.com/2012/01/01/01-01-example-article.html</id>
-    <published>2012-01-01T01:00:00+01:00</published>
-    <updated>2016-11-19T12:06:14+01:00</updated>
+    <title>sleep eat shit</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/19/sleep-eat-shit.html"/>
+    <id>http://blog.url.com/2016/11/19/sleep-eat-shit.html</id>
+    <published>2016-11-19T15:32:00+01:00</published>
+    <updated>2016-11-19T15:33:56+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;This is an example article. You probably want to delete it and write your own articles!&lt;/p&gt;
+    <content type="html">&lt;p&gt;Ex delectus iure aut qui. Ipsam consequatur voluptas omnis sunt aut nam. Commodi quidem beatae et non asperiores sequi et eos. Magni non itaque velit quia. Incidunt esse tenetur suscipit est beatae itaque rerum quia architecto&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>poo ist coming</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/19/poo-ist-coming.html"/>
+    <id>http://blog.url.com/2016/11/19/poo-ist-coming.html</id>
+    <published>2016-11-19T15:32:00+01:00</published>
+    <updated>2016-11-19T15:33:37+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Veniam nisi voluptas debitis officia enim dolorem voluptas. Ab illum officiis molestiae repellat atque nostrum assumenda doloribus sunt cumque aut temporibus eos non. Et repellat illo non. Sed unde et eum asperiores nulla labore itaque nemo et nobis consequatur architecto aut qui. Placeat aut occaecati qui&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>tv killed society</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/19/tv-killed-society.html"/>
+    <id>http://blog.url.com/2016/11/19/tv-killed-society.html</id>
+    <published>2016-11-19T15:32:00+01:00</published>
+    <updated>2016-11-19T15:34:24+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Adipisci vel dolores fugiat dignissimos non provident et culpa. Repudiandae est dolorum nostrum est nisi quod voluptatem molestiae dolorem error. Suscipit molestiae explicabo aut assumenda qui doloremque voluptas nam explicabo. Et exercitationem dolor magni sunt. Nobis voluptas ratione eius accusantium&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>you shall never poo without toilet paper</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/19/you-shall-never-poo-without-toilet-paper.html"/>
+    <id>http://blog.url.com/2016/11/19/you-shall-never-poo-without-toilet-paper.html</id>
+    <published>2016-11-19T15:32:00+01:00</published>
+    <updated>2016-11-19T15:34:46+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Et eaque laudantium quidem ab natus quo quaerat. Qui vel cupiditate aut in voluptas neque libero laborum officia saepe alias et. Et assumenda quam corrupti et eum est officia vel beatae. Minima dolorum repellat deleniti voluptatem unde assumenda dolore harum. Optio unde nesciunt ut esse molestias dolor tempore&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>even more articles</title>
+    <link rel="alternate" href="http://blog.url.com/2016/11/19/even-more-articles.html"/>
+    <id>http://blog.url.com/2016/11/19/even-more-articles.html</id>
+    <published>2016-11-19T15:27:00+01:00</published>
+    <updated>2016-11-19T15:33:20+01:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;p&gt;Magni aut aut vero eligendi repellendus et aut. Quod rem beatae explicabo. Deleniti et dignissimos ut in impedit enim veritatis. Distinctio ut harum quia facere consequatur velit sint rerum qui dignissimos possimus recusandae. Qui incidunt soluta rerum aut neque placeat deleniti minima incidunt occaecati saepe&lt;/p&gt;
 </content>
   </entry>
 </feed>
